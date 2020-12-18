@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:duration="20">
+        <layer-list>
+            <item android:gravity="center">
+                <shape android:shape="oval">
+                    <stroke android:width="8dp" android:color="#a6ffffff" />
+                    <size android:width="67dp" android:height="67dp" />
+                </shape>
+            </item>
+            <item android:gravity="center">
+                <shape android:shape="oval">
+                    <stroke android:width="5dp" android:color="#00ffffff" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="20">
+        <layer-list>
+            <item android:gravity="center">
+                <shape android:shape="oval">
+                    <stroke android:width="7dp" android:color="#a6ffffff" />
+                    <size android:width="65dp" android:height="65dp" />
+                </shape>
+            </item>
+            <item android:gravity="center">
+                <shape android:shape="oval">
+                    <stroke android:width="5dp" android:color="#00ffffff" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="20">
+        <layer-list>
+            <item android:gravity="center">
+                <shape android:shape="oval">
+                    <stroke android:width="6dp" android:color="#a6ffffff" />
+                    <size android:width="63dp" android:height="63dp" />
+                </shape>
+            </item>
+            <item android:gravity="center">
+                <shape android:shape="oval">
+                    <stroke android:width="5dp" android:color="#00ffffff" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item android:duration="20">
+        <layer-list>
+            <item android:gravity="center">
+                <shape android:shape="oval">
+                    <stroke android:width="5dp" android:color="#ffffff" />
+                    <size android:width="61dp" android:height="61dp" />
+                </shape>
+            </item>
+            <item android:gravity="center">
+                <shape android:shape="oval">
+                    <stroke android:width="5dp" android:color="#00ffffff" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</animation-list>
